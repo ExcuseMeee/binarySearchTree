@@ -21,5 +21,5 @@ The first line of `in.txt` should be 3 integers `N` `I` `Q`.
 Queries are case sensitive
 - `search`: search a specified `itemTree` for a `NV_Node` and display the result
 - `count`: search for a specified `itemTree` and display the sum of all items within it
-- `height_balance`: search for a specified `itemTree` and get display the result
+- `height_balance`: search for a specified `itemTree` and display the balance of it
 - `item_before`: list the `NV_Node`'s within the specified `itemTree` that comes before the specified value
